@@ -16,13 +16,5 @@ This repository contains solutions to Assignment 3 from Module 4 of the Python c
   - Natural logarithm (base e)
   - Sine (in radians)
 
-## How to Run
 
-- Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Assignment3_Tutedude.git
-   cd Assignment3_Tutedude
-   python factorial_function.py
-    python math_module_calculations.py
-    ```
 
